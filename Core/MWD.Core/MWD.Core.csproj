@@ -49,6 +49,9 @@
   <ItemGroup>
     <Compile Include="Entities\Email.cs" />
     <Compile Include="Entities\MWDEntity.cs" />
+    <Compile Include="Entities\NewEntityPrime.cs" />
+    <Compile Include="Entities\NewEntityPrimeAlternate.cs" />
+    <Compile Include="Entities\NewEntitySub.cs" />
     <Compile Include="Entities\Person.cs" />
     <Compile Include="Interfaces\iHasDefault.cs" />
     <Compile Include="Interfaces\iHasEmail.cs" />
